@@ -1,6 +1,8 @@
 body {
   font-size: 120%;
   font-family: Arial;
+  /* background-color: pink; */
+  background-image: url("images/Money2.jpeg");
 }
 
 button, input {
