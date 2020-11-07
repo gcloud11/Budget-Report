@@ -9,10 +9,6 @@ Node.Js
 Express.Js
 Mongoose
 
-```
-npm i
-```
-
 ## Instillation 
 
 Git clone repositiory to local machine:
@@ -20,13 +16,26 @@ Git clone repositiory to local machine:
 HTTPS:
 ```
 git clone https://github.com/gcloud11/Budget-Report.git
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```
+SSH:
+```
+git@github.com:gcloud11/Budget-Report.git
+```
+NPM Install:
+```
+npm i
+```
+Open integrated terminal in server.js file:
+```
+node server.js
+```
+This connects to PORT 3000 for application use. Type in webpage url:
+```
+localhost3000
 ```
 
-## Contributing
+
+## Visuals
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
