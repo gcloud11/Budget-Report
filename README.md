@@ -16,8 +16,10 @@ npm i
 ## Instillation 
 
 Git clone repositiory to local machine:
+
+HTTPS:
 ```
-git clone 
+git clone https://github.com/gcloud11/Budget-Report.git
 
 foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
