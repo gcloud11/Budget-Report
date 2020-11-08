@@ -1,6 +1,7 @@
 # Budget-Report
 
 Budget-Report is an web application that keeps track of your inputed finances on an xy grid.
+[Try out the app!](https://fast-eyrie-39268.herokuapp.com/)
 
 ## Installation
 
@@ -36,6 +37,5 @@ localhost3000
 
 
 ## Visuals
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+<img width="1012" alt="Budget" src="https://user-images.githubusercontent.com/67169488/98454223-bfc91680-2127-11eb-8c34-35994aa3a3d2.png">
 
-Please make sure to update tests as appropriate.
