@@ -9,6 +9,8 @@ Use the package manager to install an necessary modules.
 Node.Js
 Express.Js
 Mongoose
+Mongo Atlas
+Heroku
 
 ## Instillation 
 
