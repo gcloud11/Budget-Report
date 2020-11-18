@@ -7,7 +7,7 @@ Budget-Report is an web application that keeps track of your inputed finances on
 
 Use the package manager to install an necessary modules.
 * Node.Js -
-* (Express.Js)[https://expressjs.com/] - node.js framework
+* [Express.Js](https://expressjs.com/) - node.js framework
 * Mongoose
 * Mongo Atlas
 * Heroku
