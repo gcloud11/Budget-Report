@@ -3,16 +3,16 @@
 Budget-Report is an web application that keeps track of your inputed finances on an xy grid.
 [Try out the app!](https://fast-eyrie-39268.herokuapp.com/)
 
-## Installation
+## Built With
 
 Use the package manager to install an necessary modules.
-Node.Js
-Express.Js
-Mongoose
-Mongo Atlas
-Heroku
+* Node.Js -
+* (Express.Js)[https://expressjs.com/] - node.js framework
+* Mongoose
+* Mongo Atlas
+* Heroku
 
-## Instillation 
+## Installation 
 
 Git clone repositiory to local machine:
 
