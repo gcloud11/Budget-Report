@@ -10,7 +10,7 @@ Use the package manager to install an necessary modules.
 * [Express.Js](https://nodejs.org/en/) - JavaScript runtime
 * [Express.Js](https://expressjs.com/) - node.js framework
 * [Mongo Atlas](https://www.mongodb.com/cloud) - NoSQL database
-* [Heroku](https://signup.heroku.com/t/platform?   c=70130000001xDpdAAE&gclid=Cj0KCQiAqdP9BRDVARIsAGSZ8Al603f92gELlW2bi5nEFUucda2lncpgmWeymf1No6jMLHxT8PCU7JYaAn9eEALw_wcB) - node.js framework
+* [Heroku](https://devcenter.heroku.com/) - node.js framework
 * [NPM](https://expressjs.com/) - Dependency management
 
 ## Installation 
