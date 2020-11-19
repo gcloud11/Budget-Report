@@ -1,6 +1,6 @@
 # Budget-Report
 
-Budget-Report is an web application that keeps track of your inputed finances on an xy grid.
+Budget-Report is an web application that keeps track of your inputed finances. Put the pencil and paper away and go virtual with this easy to use budget trakcer application.
 [Try out the app!](https://fast-eyrie-39268.herokuapp.com/)
 
 ## Built With
